@@ -30,6 +30,24 @@
 // Version 0.1.1 (20140501) pocsag message creation now done on arduino
 
 
+|||//////////////////////////////////////////////////
+|||               IMPORTANT                      ///
+|||                                             ///
+|||  As of version 0.1.2. (20140517) part      ///
+|||     of this code has been moved to a      ///
+|||     dedicated arduino-class. See the new ///
+|||     code here:                          ///
+|||  https://github.com/on1arf/pocsag      ///
+|||                                       ///
+||| The code below is the old version    ///
+|||   0.1.1 that is not maintained      ///
+|||   anymore!                         ///
+|||//////////////////////////////////////
+
+
+
+
+
 // increase maximum packet site
 #define RF22_MAX_MESSAGE_LEN 255
 
